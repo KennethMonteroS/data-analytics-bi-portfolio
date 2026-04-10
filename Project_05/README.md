@@ -49,8 +49,8 @@ The analysis is based on the following main tables:
 ---
 
 ## Repository Structure
-- `queries.sql` – SQL queries used for analysis  
-- `README.md` – Project documentation  
+- `mlb_analysis.sql` – SQL queries used for analysis  
+- `mlb_database_creation.sql` – Project documentation  
 
 ---
 
