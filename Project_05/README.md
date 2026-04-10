@@ -3,9 +3,9 @@
 ## Overview
 This project analyzes baseball data using advanced SQL techniques to explore player careers, team spending patterns, and school contributions.
 
-The analysis focuses on extracting insights from relational data using joins, aggregations, CTEs, and window functions.
+The analysis focuses on extracting insights from relational data using advanced SQL concepts such as joins, aggregations, subqueries, Common Table Expressions (CTEs) and window functions.
 
-Data Source: Public baseball dataset.
+Data Source: Synthetic baseball dataset.
 
 ---
 
@@ -49,14 +49,14 @@ The analysis is based on the following main tables:
 ---
 
 ## Repository Structure
-- [mlb_analysis.sql](mlb_analysis.sql) – SQL queries used for analysis
-- [mlb_database_creation.sql](mlb_database_creation.sql) – Project documentation
+- [mlb_analysis.sql](mlb_analysis.sql) –  contains SQL queries used for data analysis 
+- [mlb_database_creation.sql](mlb_database_creation.sql) – contains the database schema and table creation statements
 
 ---
 
 ## Skills Demonstrated
 - Advanced SQL  
-- CTEs and Window Functions  
+- Subqueries, CTEs and Window Functions  
 - Data Aggregation  
 - Data Transformation  
 - Analytical Thinking
