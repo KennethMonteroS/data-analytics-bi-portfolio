@@ -6,7 +6,7 @@ Welcome to my Data Analytics & Business Intelligence portfolio. This repository 
 
 Hi, I'm Kenneth Montero Suárez, a data analyst certified in Microsoft Power BI (PL-300) with a strong interest in business intelligence, data visualization and analytical problem-solving. 
 
-In this portfolio, I present projects where I work across the data workflow, from data preparation and modeling to analysis and visualization, using tools such as Power BI, SQL, and Python to build interactive dashboards and deliver meaningful insights. 
+In this portfolio, I present projects where I work across the data workflow, from data preparation and modeling to analysis and visualization, using tools such as Power BI, SQL and Python to build interactive dashboards and deliver meaningful insights. 
 
 I am passionate about turning data into insights that support better decision-making and continuous improvement.
 
